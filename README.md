@@ -54,7 +54,7 @@ The project includes a **Streamlit-based web application** that allows users to:
 
 ## Technical Stack  
 
-- **Python Libraries**: Pandas, Scikit-learn, XGBoost, Imbalanced-learn  
-- **Visualization**: Plotly, Seaborn , Matplolib
+- **Python Libraries**: Pandas, Scikit-learn, XGBoost  
+- **Visualization**: Seaborn , Matplolib
 - **Deployment**: Streamlit web app (`app.py` included!)  
 
