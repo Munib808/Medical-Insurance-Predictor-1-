@@ -50,3 +50,11 @@ The project includes a **Streamlit-based web application** that allows users to:
 
 - Input their data (age, BMI, etc.)
 - Get a prediction of their insurance cost in real time
+
+
+## Technical Stack  
+
+- **Python Libraries**: Pandas, Scikit-learn, XGBoost, Imbalanced-learn  
+- **Visualization**: Plotly, Seaborn , Matplolib
+- **Deployment**: Streamlit web app (`app.py` included!)  
+
